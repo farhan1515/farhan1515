@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🧑‍💻 I'm currently pursuing a BTECH in **Information Technology**
+ 🧑‍💻 I'm currently pursuing Master's in **Applied Computing**
  
  🌱 I’m currently learning **Generative AI, AWS**
 
