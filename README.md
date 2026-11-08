@@ -1,68 +1,55 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=farhan1515.farhan1515" />
+<p align="center">
+  <img src="./header.svg" width="100%" alt="farhan@dev terminal: full-stack and AI engineer" />
+</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Techie's!+👋;+I'm+Mohammed+Farhan!;" />
-</h1>
+<p align="center">
+  <a href="mailto:farhananwar784@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/mohammed-farhan-anwar-b7a626256/">LinkedIn</a> ·
+  <a href="https://farhandev.vercel.app/">Portfolio</a>
+</p>
 
-<h3 align="center">A passionate software developer from India, Hyderabad</h3>
+### 🛠️ What I build
 
-<br/>
+- **Full-stack SaaS:** white-label, multi-tenant web and mobile apps, admin dashboards, role-based access
+- **Payment systems:** card payments, recurring billing, refunds and saved cards
+- **AI agents in production:** tool calling and RAG, measured on real data before release
+- **Cross-platform apps:** one Flutter codebase for iOS, Android, Web and macOS
 
-<div align="center">
- 
- 🧑‍💻 I'm currently pursuing Master's in **Applied Computing**
- 
- 🌱 I’m currently learning **Generative AI, AWS**
+### 🧪 How I keep it reliable
 
-💬 Ask me about **Flutter,Node.js, React, Firebase... or anything.**
+| What I do | How |
+| :-- | :-- |
+| Tests gate every release | pytest and automated test suites run in CI/CD before deploy |
+| Catch errors before users report them | Sentry and Crashlytics in production |
+| Watch the system, not just the code | Datadog metrics and alerts |
+| Plan for failure | retries, rate-limit handling, outage and restart drills |
+| Measure AI, don't trust it | eval harness on real cases; rules and dates live in tested code, not prompts |
+| Humans approve risky actions | agents ask before changing anything important |
+| Secure by default | JWT auth, role-based access, validated inputs |
 
-⚡ Fun fact **Stackie at StackUp.com and a Footballer⚽**
-🕸️ Always ready to **Collaborate and Work**
+### 🧰 Stack
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:farhananwar784@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-farhan-anwar-b7a626256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://farhan15portfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,ts,js,dart,react,nextjs,flutter,nodejs,tailwind,html,css&perline=13" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase,prisma,docker,kubernetes,githubactions,gitlab,sentry,vercel,git,linux&perline=14" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,dart,mysql" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/farhan1515/farhan1515/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=farhan1515&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=farhan1515&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=farhan1515&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/farhan1515/farhan1515/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/farhan1515/farhan1515/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
